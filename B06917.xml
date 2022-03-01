@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ragman: or, A company that fell at oddes one day, which of them should carry the cunny skins away, they strove who should have it, but none of them wise, for the usurer and the devill carry away the przie [sic]. To the tune of Upon the highest mountaines, or, The absence of my mistresse.</title>
+            <author>Lookes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06917</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[46]</idno>
+            <idno type="EEBO-CITATION">99887579</idno>
+            <idno type="PROQUEST">ocm99887579</idno>
+            <idno type="VID">182304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182304)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ragman: or, A company that fell at oddes one day, which of them should carry the cunny skins away, they strove who should have it, but none of them wise, for the usurer and the devill carry away the przie [sic]. To the tune of Upon the highest mountaines, or, The absence of my mistresse.</title>
+                  <author>Lookes, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. [Grove,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>ca. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author, publisher, and date of publication suggested by Wing L3030B.</note>
+                  <note>Verse: "There was a ragman and a mad man ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: mutilated, affecting text and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devil --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182304:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>The Ragman: <hi>OR,</hi>
+            </head>
+            <argument>
+               <lg>
+                  <l>A Company that fell at oddes one day,</l>
+                  <l>Which of them ſhould carry the Cunny skins away,</l>
+                  <l>They ſtrove who ſhould have it, but none of them wiſe,</l>
+                  <l>For the Uſurer and the Devill carry away the przie.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of <hi>Upon the higheſt Mountaines,</hi> or, <hi>The abſence of my Miſtreſſe</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THere was a Ragman and a mad man</l>
+               <l>As they travelled on a day,</l>
+               <l>There came a Begger and a Bagman</l>
+               <l>And ſtole the Cunny skins away:</l>
+               <l>Quoth the mad man</l>
+               <l>to the Ragman</l>
+               <l>I have it in my braine,</l>
+               <l>to make the Begger</l>
+               <l>and the Bagman</l>
+               <l>
+                  <hi>Bring the Cunny skins againe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then with a cup of fuddle</l>
+               <l>The Mad man he did take</l>
+               <l>The Bagman on the noddle</l>
+               <l>Till his braines began to ake,</l>
+               <l>till the Begger</l>
+               <l>he did ſtagger</l>
+               <l>He had drunke himſelfe ſo blind:</l>
+               <l>thus they payd them</l>
+               <l>till they made them</l>
+               <l>
+                  <hi>Leave the Cunny skins behind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It was a Lock-ſmith and a Drinker</l>
+               <l>As they went forth on a day,</l>
+               <l>They met a Black-ſmith and a Tinker</l>
+               <l>Stole the Cunny skins away?</l>
+               <l>quoth the Lock-ſmith</l>
+               <l>to the Drinker</l>
+               <l>I will take him o're the braine,</l>
+               <l>I'le make the Black-ſmith</l>
+               <l>and the Tinker</l>
+               <l>
+                  <hi>Bring the Cunny skins againe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou ſhalt finde me as good mettle</l>
+               <l>The Drinker he did ſay,</l>
+               <l>As any is in the Kettle</l>
+               <l>He beates upon each day:</l>
+               <l>quoth the Lock-ſmith</l>
+               <l>(then the Black-ſmith)</l>
+               <l>Alſo by me ſhall finde</l>
+               <l>I'le ſo fuddle</l>
+               <l>Vulcans noddle</l>
+               <l>
+                  <hi>Till he leave the Cunny skins behinde.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There was a Cobler and a Broome-man</l>
+               <l>As they did meet one day,</l>
+               <l>There came a Carman and a Plowman</l>
+               <l>Stole the Cunny skins away,</l>
+               <l>quoth the Cobler</l>
+               <l>to the Broome-man</l>
+               <l>W'le ſo toxicate the braine</l>
+               <l>we'le make the Carman</l>
+               <l>and the Plowman</l>
+               <l>
+                  <hi>Bring the Cunny skins againe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We will call them to a parley,</l>
+               <l>The Broome-man thus did ſay,</l>
+               <l>How they ſow their Dates and Barley.</l>
+               <l>And how they cut their Graſſe and Hay,</l>
+               <l>then the Carman</l>
+               <l>leg and arme man</l>
+               <l>With Barly broth wée'le hind,</l>
+               <l>wée'le not forſake them</l>
+               <l>till we make them</l>
+               <l>
+                  <hi>Leave the Cunny sknis berhinde.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <head>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </head>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IT was a Ioyner and a Rope maker</l>
+                  <l>As they went on the way</l>
+                  <l>There came a Brewer and a Baker</l>
+                  <l>Stole the Cunny skins away</l>
+                  <l>quoth the Ioyner</l>
+                  <l>to the Rope maker</l>
+                  <l>Tis in a merry vaine.</l>
+                  <l>make the Brewer</l>
+                  <l>and the Baker</l>
+                  <l>
+                     <hi>Bring the Cunny skins againe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Quoth the Ioyner to the Brewer</l>
+                  <l>Though that malt in price doe fall</l>
+                  <l>Yet ſtill he will be ſure</l>
+                  <l>For to make his drinke too ſmall</l>
+                  <l>the Rope maker</l>
+                  <l>told the Baker</l>
+                  <l>Your knavery we ſhall finde</l>
+                  <l>which if we take you</l>
+                  <l>we ſhall make you</l>
+                  <l>
+                     <hi>Leave the Cunny skins behind.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>It was a Glover and a Weaver</l>
+                  <l>As they met on the way</l>
+                  <l>There came a Fidler and a Pedler</l>
+                  <l>Stole the Cunny skins away.</l>
+                  <l>quoth the Glover</l>
+                  <l>to the Weaver</l>
+                  <l>I will take him o're the braine</l>
+                  <l>wée'le make the Fidler</l>
+                  <l>and the Pedler</l>
+                  <l>
+                     <hi>Bring the Cunny skins againe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Weaver with his Treddle</l>
+                  <l>So faſt about him laid</l>
+                  <l>Till the Fidler puld out's Fiddle</l>
+                  <l>And then a Leſſon plaid</l>
+                  <l>whilſt the Glover</l>
+                  <l>with ſtrong liquor</l>
+                  <l>So well their caps had lin'd</l>
+                  <l>which made the Fidler</l>
+                  <l>and the Pedler</l>
+                  <l>
+                     <hi>Leave the Cunny skins <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>It was a Broaker and a Taylor</l>
+                  <l>As they met on a day</l>
+                  <l>Came the Hangman and the Jaylor</l>
+                  <l>Stole the Cunny skins away</l>
+                  <l>quoth the Broker</l>
+                  <l>to the Taylor</l>
+                  <l>wée'le take them on the braine,</l>
+                  <l>and make the Hangman</l>
+                  <l>and the Jalyor</l>
+                  <l>
+                     <hi>Bring the Cunny skins againe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Quoth the Broaker, if the Hangman</l>
+                  <l>I chance withall to méete</l>
+                  <l>His ſides I will ſo bang (man)</l>
+                  <l>He ſhall hardly ſtand on's féete,</l>
+                  <l>quoth the Taylor</l>
+                  <l>with the Jalyor</l>
+                  <l>No pleaſure I can finde,</l>
+                  <l>but if we take them</l>
+                  <l>we ſhall make them</l>
+                  <l>
+                     <hi>Leave the Cunny skins behind.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>It was a Royſter and a Revell</l>
+                  <l>As they did méete one day,</l>
+                  <l>Came an Vſurer and the Devill</l>
+                  <l>Stole the Cunny skins away:</l>
+                  <l>quoth the Royſter</l>
+                  <l>to the Revell</l>
+                  <l>Wée'le take them on the braine</l>
+                  <l>wee'le make the Vſurer</l>
+                  <l>and the Devill</l>
+                  <l>
+                     <hi>Bring the Cunny skins againe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Royſter with his Rapier</l>
+                  <l>At the Devill he did runne,</l>
+                  <l>And at him he did vapour,</l>
+                  <l>But could not make him ſhunne,</l>
+                  <l>vvhilſt the Revell</l>
+                  <l>he did cavell</l>
+                  <l>Crying out vve have foule play</l>
+                  <l>for the Vſurer</l>
+                  <l>and the Devill</l>
+                  <l>
+                     <hi>Beares the Cunny skins away.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London Printed for Fr. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
